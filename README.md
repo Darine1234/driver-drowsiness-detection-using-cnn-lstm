@@ -1,8 +1,6 @@
 # 🚗 Driver Drowsiness Detection Using CNN-LSTM
 
-<div align="center">
-  <img src="[https://www.researchgate.net/profile/Sukrit-Mehta/publication/352830360/figure/fig1/AS:1043877177765888@1625441661635/Working-of-Driver-Drowsiness-Detection-System.png](https://imgs.search.brave.com/x8jW1Fu8nDfFkoMqMBuI0Nr30n_PqgVcEHeRE1CslRk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bGFiZWxsZXJyLmNv/bS8xJTIwRHJvd3Np/bmVzcyUyMGRldGVj/dGlvbi9kcm93c2kx/LnBuZw)" width="700px" />
-</div>
+
 
 
 ## 🌟 Overview
@@ -32,12 +30,10 @@ This project implements a sophisticated driver drowsiness detection system using
 ## 📊 Model Architecture
 
 ```
-CNN (ResNet50) → LSTM → Dense Layers
+CNN  → LSTM → Dense Layers
 ```
 
-<div align="center">
-  <img src="https://www.researchgate.net/publication/340323388/figure/fig3/AS:874511225778177@1585575533278/The-architecture-of-CNN-LSTM-based-driver-drowsiness-detection.jpg" width="650px" />
-</div>
+
 
 ## 🔧 Installation
 
