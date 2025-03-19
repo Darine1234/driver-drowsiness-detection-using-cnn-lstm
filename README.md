@@ -1,8 +1,9 @@
 # 🚗 Driver Drowsiness Detection Using CNN-LSTM
 
 <div align="center">
-  <img src="https://www.researchgate.net/publication/349952137/figure/fig2/AS:1000067504766976@1615524613616/Driver-drowsiness-detection-system.ppm" width="700px" />
+  <img src="https://www.researchgate.net/profile/Sukrit-Mehta/publication/352830360/figure/fig1/AS:1043877177765888@1625441661635/Working-of-Driver-Drowsiness-Detection-System.png" width="700px" />
 </div>
+
 
 ## 🌟 Overview
 
