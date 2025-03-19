@@ -61,7 +61,7 @@ If you use this project in your research, please cite:
 @article{drowsiness2023detection,
   title={Driver Drowsiness Detection Using CNN-LSTM},
   author={Darine},
-  year={2023}
+  year={2025}
 }
 ```
 
